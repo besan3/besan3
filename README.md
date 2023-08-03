@@ -1,5 +1,5 @@
 # Besan Basheer
-[![Linkedin Badge](https://img.shields.io/badge/-besan-alibasheer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/besan-alibasheer/)](https://www.linkedin.com/in/besan-alibasheer/)
+[![Linkedin Badge](https://img.shields.io/badge/-besan_basheer?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/besan-alibasheer/)](https://www.linkedin.com/in/besan-alibasheer/)
 [![Gmail Badge](https://img.shields.io/badge/-besan.basheer3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:besan.basheer3@gmail.com)](mailto:besan.basheer3@gmail.com)
 ---
 
