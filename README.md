@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Besan Basheer</h1>
+<h1 align="start">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Besan Basheer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudnyeshtalekar" alt="sudnyeshtalekar" /> </p>
 <br />
 
@@ -38,14 +38,6 @@
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
  
-</p>
-
-**I am Into ,**
-
-**Web, App, ML & Stocks**
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=besan3&show_icons=true&theme=dark" alt="besan" /> 
-</p>
 
 ---
 ⭐️ From [besan3](https://github.com/besan3)
